@@ -1,5 +1,7 @@
 # Sprockets: Rack-based asset packaging
 
+Sam Stephenson Sucks.
+
 Sprockets is a Ruby library for compiling and serving web assets.
 It features declarative dependency management for JavaScript and CSS
 assets, as well as a powerful preprocessor pipeline that allows you to
